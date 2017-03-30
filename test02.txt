@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 An awesome feature!!!
+=======
+This is a new branch!!!
+>>>>>>> 1.02
